@@ -31,7 +31,7 @@
      ```
 
 3. **리소스 다운로드**
-   - 구글 드라이브 링크에서 필요한 리소스를 다운로드하고 프로젝트의 리소스 폴더에 추가합니다.
+   - 구글 드라이브 링크에서 필요한 리소스를 다운로드합니다. 다운로드한 리소스 중 Video 폴더는 프로젝트의 Resource 폴더 안에 넣고, 나머지 lib 폴더 안의 dll과 lib 파일들은 빌드 후 나오는 x64의 Release와 Debug 폴더에 각각 넣어야 합니다.
    - [구글 드라이브 리소스 링크](https://drive.google.com/file/d/1f4w1fKhriLu79yv6hnbQB6U-psfcobQW/view?usp=drive_link)
 
 4. **빌드 설정**
