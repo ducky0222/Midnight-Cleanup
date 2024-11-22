@@ -2,7 +2,13 @@
 
 게임인재원의 졸업 프로젝트 **Midnight Cleanup**입니다.
 
+[실행 파일 다운로드 링크](https://drive.google.com/file/d/1hroCBaxKAf4o9uD_DsyTVq8BXchf0YC-/view?usp=drive_link)
+
 [![Midnight Cleanup](https://img.youtube.com/vi/WkjI6ZwUVwU/0.jpg)](https://youtu.be/WkjI6ZwUVwU)
+
+이 프로젝트는 C++20과 DirectX 11을 사용하여 개발된 3D 그래픽스 애플리케이션입니다. 게임인재원 졸업 프로젝트로 2024년 4월부터 2024년 11월까지 진행되었으며, 팀원 간 협업과 그래픽스 기술을 활용한 학습 및 연구를 목적으로 제작되었습니다.
+
+제가 맡은 부분은 DX11 렌더러와 컨텐츠 개발입니다.
 
 ## 빌드 방법
 
