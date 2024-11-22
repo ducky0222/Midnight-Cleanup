@@ -2,7 +2,7 @@
 
 게임인재원의 졸업 프로젝트 **Midnight Cleanup**입니다.
 
-[![Midnight Cleanup](https://raw.githubusercontent.com/your-repository-url/images/thumbnail.png)](https://youtu.be/WkjI6ZwUVwU)
+[![Midnight Cleanup](https://img.youtube.com/vi/WkjI6ZwUVwU/0.jpg)](https://youtu.be/WkjI6ZwUVwU)
 
 ## 빌드 방법
 
