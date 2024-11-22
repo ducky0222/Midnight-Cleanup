@@ -31,7 +31,7 @@
 
 3. **리소스 다운로드**
    - 구글 드라이브 링크에서 필요한 리소스를 다운로드하고 프로젝트의 리소스 폴더에 추가합니다.
-   - [구글 드라이브 리소스 링크]([https://drive.google.com/your-resource-link](https://drive.google.com/file/d/1f4w1fKhriLu79yv6hnbQB6U-psfcobQW/view?usp=drive_link))
+   - [구글 드라이브 리소스 링크]([https://drive.google.com/file/d/1f4w1fKhriLu79yv6hnbQB6U-psfcobQW/view?usp=drive_link])
 
 4. **빌드 설정**
    - Visual Studio 또는 다른 C++ IDE에서 `MidnightCleanup` 프로젝트를 엽니다.
