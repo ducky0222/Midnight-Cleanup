@@ -1,6 +1,6 @@
 # Midnight Cleanup - Graduation Project
 
-게임인재원의 졸업 프로젝트 **Midnight Cleanup**입니다. 이 프로젝트는 플레이어가 미스터리한 장소를 청소하며 다양한 도전 과제를 해결하는 3D 퍼즐 어드벤처 게임입니다.
+게임인재원의 졸업 프로젝트 **Midnight Cleanup**입니다.
 
 ## 빌드 방법
 
