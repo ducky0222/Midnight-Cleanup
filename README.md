@@ -24,7 +24,7 @@
      cd vcpkg
      ./bootstrap-vcpkg.bat
      ```
-   - 필요한 패키지를 vcpkg를 통해 설치합니다.
+   - vcpkg list.txt를 보고 필요한 패키지를 vcpkg를 통해 설치합니다.
      ```bash
      vcpkg install [필요한 패키지 목록]
      ```
