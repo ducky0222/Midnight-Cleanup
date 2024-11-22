@@ -1,6 +1,6 @@
 # Midnight Cleanup - Graduation Project
 
-게임인재원의 졸업 프로젝트 **Midnight Cleanup**입니다.
+게임인재원의 졸업 프로젝트 **Midnight Cleanup**입니다. 이 프로젝트는 플레이어가 미스터리한 장소를 청소하며 다양한 도전 과제를 해결하는 3D 퍼즐 어드벤처 게임입니다.
 
 ## 빌드 방법
 
@@ -31,7 +31,7 @@
 
 3. **리소스 다운로드**
    - 구글 드라이브 링크에서 필요한 리소스를 다운로드하고 프로젝트의 리소스 폴더에 추가합니다.
-
+   - [구글 드라이브 리소스 링크](https://drive.google.com/file/d/1f4w1fKhriLu79yv6hnbQB6U-psfcobQW/view?usp=drive_link)
 
 4. **빌드 설정**
    - Visual Studio 또는 다른 C++ IDE에서 `MidnightCleanup` 프로젝트를 엽니다.
