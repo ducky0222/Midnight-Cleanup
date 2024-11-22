@@ -5,7 +5,7 @@
 ## 빌드 방법
 
 ### 요구 사항
-- **DirectX June 2010**: 먼저 설치 필요 ([다운로드 링크](https://www.microsoft.com/en-us/download/details.aspx?id=8109))
+- **DirectX June 2010**: 먼저 설치 필요 ([다운로드 링크](https://www.microsoft.com/en-us/download/details.aspx?id=6812))
 - **개발 언어**: C++
 - **그래픽 API**: DirectX 11
 - **의존성 라이브러리**:
