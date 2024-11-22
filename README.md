@@ -5,6 +5,7 @@
 ## 빌드 방법
 
 ### 요구 사항
+- **DirectX June 2010**: 먼저 설치 필요 ([다운로드 링크](https://www.microsoft.com/en-us/download/details.aspx?id=8109))
 - **개발 언어**: C++
 - **그래픽 API**: DirectX 11
 - **의존성 라이브러리**:
@@ -24,7 +25,7 @@
      cd vcpkg
      ./bootstrap-vcpkg.bat
      ```
-   - vcpkg_list.txt를 보고 필요한 패키지를 vcpkg를 통해 설치합니다.
+   - 필요한 패키지를 vcpkg를 통해 설치합니다.
      ```bash
      vcpkg install [필요한 패키지 목록]
      ```
@@ -34,7 +35,7 @@
    - [구글 드라이브 리소스 링크](https://drive.google.com/file/d/1f4w1fKhriLu79yv6hnbQB6U-psfcobQW/view?usp=drive_link)
 
 4. **빌드 설정**
-   - Visual Studio에서 `MidnightCleanup` 프로젝트를 엽니다.
+   - Visual Studio 또는 다른 C++ IDE에서 `MidnightCleanup` 프로젝트를 엽니다.
    - 빌드 구성(Configuration)을 **Release** 또는 **Debug**로 설정합니다.
 
 5. **빌드**
